@@ -1,5 +1,8 @@
 public class DingDong{
   public static void main (String [] args){
     System.out.println("Haha ding dong");
+    System.out.println("haha dong ding");
   }
 }
+
+
